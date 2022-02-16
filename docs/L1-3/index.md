@@ -7,4 +7,4 @@ has_children: true
 
 # Zdefiniowanie odbiorców
 Osoby, które mają zastąpić pracowników redakcji przy wysyłce gazety do drukarni (choroba)
-skala (1-5)
+skala (1-5
