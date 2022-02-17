@@ -6,7 +6,7 @@
 
 
 
- ## **Spis treści**
+ [**Spis treści**](#spis-treści)
   - [**Zdefiniowanie odbiorców**](#zdefiniowanie-odbiorców)
     - [**Persona A: informatyk**](#persona-a-informatyk)
     - [**Persona B: sekretarz**](#persona-b-sekretarz)
