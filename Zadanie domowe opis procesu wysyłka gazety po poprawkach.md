@@ -5,14 +5,19 @@
 ![Okładka](https://dodr.pl/xthumb,qw=145,asrc=,_userfiles,_contents,_miesieczniki,_164,_1b.jpg.pagespeed.ic.PTrK09l9Wg.webp)
 
 
-## **Spis treści**
-1.	opis procesu i czas trwania poszczególnych kroków
-2.	zdefiniowanie odbiorców
-3.	lista dokumentów, format i kanały dystrybucji
-4.	czynności do wykonania i dokumenty z których można skorzystać
-5.	glosariusz
 
-## **Zdefiniowanie odbiorców**
+  # [**Spis treści**](#spis-treści)
+  - [**Zdefiniowanie odbiorców**](#zdefiniowanie-odbiorców)
+    - [**Persona A: informatyk**](#persona-a-informatyk)
+    - [**Persona B: sekretarz**](#persona-b-sekretarz)
+  - [**Opis procesu i czas trwania poszczególnych kroków**](#opis-procesu-i-czas-trwania-poszczególnych-kroków)
+  - [**TABELA 1. Lista dokumentów, format i kanały dystrybucji**](#tabela-1-lista-dokumentów-format-i-kanały-dystrybucji)
+  - [**Czynności do wykonania i dokumenty pomocnicze**](#czynności-do-wykonania-i-dokumenty-pomocnicze)
+  - [**Glosariusz**](#glosariusz)
+
+
+
+##  **Zdefiniowanie odbiorców**
 Osoby, które mają zastąpić pracowników redakcji przy wysyłce gazety do drukarni (choroba)
 skala (1-5)
 
@@ -28,7 +33,7 @@ skala (1-5)
 * doświadczenie − 4
 * dbałość o szczegóły − 3
   
-## **Opis procesu i czas trwania poszczególnych kroków**
+##  **Opis procesu i czas trwania poszczególnych kroków**
   *Warunki brzegowe - plik został przygotowany w Indesign, sprawdzony, skorygowany i graficznie wyszlifowany. Graficznie i merytorycznie jest gotowy.*
 
 1.	Zamykanie pliku InDesign do pdf w wersji do druku (ze spadami) - czas 20 minut - PERSONA A
@@ -40,7 +45,7 @@ skala (1-5)
 7.	przygotowanie zlecenia druku i harmonogramu dostawy (korekta ilości) i ich wysłanie do drukarni − 30 minut - PERSONA B
 8.	przesłanie informacji do własnych komórek, na temat terminu dostawy miesięcznika − 10 minut - PERSONA B
 
-## **TABELA 1. Lista dokumentów, format i kanały dystrybucji**
+##  **TABELA 1. Lista dokumentów, format i kanały dystrybucji**
 
 |   Dokument  |   Format  | Sposób dystrybucji  |
 | :---------------- |:-------------------|:-----:|
@@ -52,7 +57,7 @@ skala (1-5)
 | 6. Lista adresatów własnych komórek (adresy email)	| MS Word | umieszczenie w bazie danych redakcji  |
 
 
-## **TABELA 2.Czynności do wykonania i dokumenty pomocnicze**
+##  **Czynności do wykonania i dokumenty pomocnicze**
 
 |  PERSONA  | CZYNNOŚĆ DO WYKONANIA| DOKUMENT POMOCNICZY  |
 | :------------------ |:---------------------|:-----|
