@@ -50,7 +50,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/output</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${pd}/temp</String>
@@ -224,10 +224,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>${cfd}/temp</String>
+                                    <String>${pd}/temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>webhelp-responsive</String>
