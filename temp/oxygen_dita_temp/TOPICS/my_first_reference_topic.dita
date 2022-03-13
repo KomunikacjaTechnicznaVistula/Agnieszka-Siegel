@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Agaa\Desktop\Agnieszka-Siegel\temp\oxygen_dita_temp\TOPICS?><?workdir-uri file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/temp/oxygen_dita_temp/TOPICS/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="my_first_reference_topis" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="topic:1;3:38" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="title:1;4:12">my-first-reference-topic</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="shortdesc:1;5:17"/>
+    <body class="- topic/body " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="body:1;6:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="p:1;7:12"/>
+        <table frame="all" rowsep="1" colsep="1" id="table_ntl_3vz_vsb" class="- topic/table " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="table:1;8:73">
+            <title class="- topic/title " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="title:2;9:20">My first table</title>
+            <desc class="- topic/desc " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="desc:1;10:19">my table description</desc>
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="tgroup:1;11:30">
+                <colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="colspec:1;12:65"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="colspec:2;13:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="thead:1;14:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="row:1;15:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:1;16:32">first column</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:2;17:32">second column</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="tbody:1;20:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="row:2;21:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:3;22:32">1a</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:4;23:32">1b</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="row:3;25:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:5;26:32">2a</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:6;27:32">2b</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="row:4;29:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:7;30:32">3a</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="entry:8;31:32">3b</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <fig id="fig_n5q_jwz_vsb" class="- topic/fig " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="fig:1;36:35">
+            <p class="- topic/p " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="p:2;37:16">my image</p>
+        </fig>
+        <note id="note_jjg_hxz_vsb" importance="high" class="- topic/note " xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" xtrc="note:1;39:56"/>
+    </body>
+</topic>
