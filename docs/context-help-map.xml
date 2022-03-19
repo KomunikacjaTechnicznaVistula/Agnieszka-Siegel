@@ -13,9 +13,6 @@
                path="TOPICS/my_tenth_topic.html#my_tenth_topic"/>
    <appContext helpID="my_eleventh_topic" path="TOPICS/my_eleventh_topic.html"/>
    <appContext helpID="my_twelvth_topic" path="TOPICS/my_twelvth_topic.html"/>
-   <appContext helpID="my_first_reference_topis"
-               path="TOPICS/my_first_reference_topic.html"/>
-   <appContext helpID="task_t4b_lrz_vsb" path="TOPICS/TASKS/t_first_task.html"/>
    <appContext helpID="c_my_first_concept_1" path="TOPICS/c_my_first_concept%201.html"/>
    <appContext helpID="task_t4b_lrz_vsb" path="TOPICS/TASKS/t_first_task.html"/>
    <appContext helpID="my_first_reference_topis"

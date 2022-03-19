@@ -48,14 +48,6 @@
             <copyryear class="- topic/copyryear " year="2022"/>
             <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
         </copyright></topicmeta></topicref></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="my_first_reference_topis"><resourceid appid="my_first_reference_topis" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">my-first-reference-quotes</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
-            <copyryear class="- topic/copyryear " year="2022"/>
-            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
-        </copyright></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_t4b_lrz_vsb"><resourceid appid="task_t4b_lrz_vsb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Quoting something</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
-            <copyryear class="- topic/copyryear " year="2022"/>
-            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
-        </copyright></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref "/>
     
     
@@ -67,7 +59,7 @@
     <body class="- topic/body ">
         <p class="- topic/p ">Quotes</p>
     </body>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Quoting something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="topic"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>my-first-reference-quotes</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="my-second-topic" oid="my-second-topic" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" broken-link="true" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Quoting something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" broken-link="true" mapclass="- map/topicref " role="friend" scope="local" type="topic"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>my-first-reference-quotes</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="my-second-topic" oid="my-second-topic" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why I didnt read "Shepherd"</ph></title>
     <shortdesc class="- topic/shortdesc ">Terry Pratchett quotes not only for Dummies</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
             <copyryear class="- topic/copyryear " year="2022"/>
@@ -180,64 +172,4 @@
             </step>
         </steps>
     </taskbody>
-</task></concept></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="my_first_reference_topis" oid="my_first_reference_topis" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my-first-reference-quotes</ph></title>
-    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
-            <copyryear class="- topic/copyryear " year="2022"/>
-            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
-        </copyright></prolog>
-    <body class="- topic/body ">
-        <p class="- topic/p ">Terry Pratchett quotes</p>
-        <table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_ntl_3vz_vsb" nd:nd-id="table_ntl_3vz_vsb" rowsep="1">
-            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">The list of quotes</ph></title>
-            <desc class="- topic/desc ">my table description</desc>
-            <tgroup class="- topic/tgroup " cols="2">
-                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;12:65" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" style="width:50%;"/>
-                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;13:65" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/my_first_reference_topic.dita" style="width:50%;"/>
-                <thead class="- topic/thead ">
-                    <row class="- topic/row ">
-                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">first column</entry>
-                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">second column</entry>
-                    </row>
-                </thead>
-                <tbody class="- topic/tbody ">
-                    <row class="- topic/row ">
-                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">1a</entry>
-                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">1b</entry>
-                    </row>
-                    <row class="- topic/row ">
-                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">2a</entry>
-                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">2b</entry>
-                    </row>
-                    <row class="- topic/row ">
-                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">3a</entry>
-                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">3b</entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-        <fig class="- topic/fig " id="unique_3_Connect_42_fig_n5q_jwz_vsb" nd:nd-id="fig_n5q_jwz_vsb"><p class="- topic/p ">my image</p></fig>
-        <note class="- topic/note " id="unique_3_Connect_42_note_jjg_hxz_vsb" nd:nd-id="note_jjg_hxz_vsb" importance="high"/>
-    </body>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Quoting something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></topic><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="task_t4b_lrz_vsb" oid="task_t4b_lrz_vsb" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quoting something</ph></title>
-    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
-            <copyryear class="- topic/copyryear " year="2022"/>
-            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
-        </copyright></prolog>
-    <taskbody class="- topic/body task/taskbody ">
-        <context class="- topic/section task/context ">
-            <p class="- topic/p "/>
-        </context>
-        <steps class="- topic/ol task/steps " importance="-dita-use-conref-target">
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "/>
-            </step>
-            <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd "/>
-            </step>
-        </steps>
-        <result class="- topic/section task/result " id="unique_2_Connect_42_result_w14_k5z_vsb" nd:nd-id="result_w14_k5z_vsb"/>
-        <example class="- topic/example " id="unique_2_Connect_42_example_i1t_j5z_vsb" nd:nd-id="example_i1t_j5z_vsb"/>
-    </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="topic"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Terry Pratchett</linktext></link></linkpool></related-links></task></map>
+</task></concept></topic></map>

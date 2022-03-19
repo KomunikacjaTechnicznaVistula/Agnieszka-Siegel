@@ -23,8 +23,6 @@
             <topicref href="TOPICS/my_twelvth_topic.dita"/>
         </topicref>
     </topicref>
-    <topicref href="TOPICS/my_first_reference_topic.dita"/>
-    <topicref href="TOPICS/TASKS/t_first_task.dita"/>
     <topicref/>
     <reltable>
         <relrow/>
