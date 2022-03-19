@@ -9,9 +9,23 @@
             <copyrholder>Vistula University</copyrholder>
         </copyright>
     </topicmeta>
-    <topicref href="TOPICS/c_my_first_concept%201.dita"/>
+    <topicref href="TOPICS/c_my_first_concept%201.dita">
+        <topicref href="TOPICS/my_second_topic.dita">
+            <topicref href="TOPICS/my_third_topic.dita"/>
+            <topicref href="TOPICS/my_fourth_topic.dita"/>
+            <topicref href="TOPICS/my_fifth_topic.dita"/>
+            <topicref href="TOPICS/my_sixth_topic.dita"/>
+            <topicref href="TOPICS/my_seventh_topic_dita.dita"/>
+            <topicref href="TOPICS/my_eight_topic.dita"/>
+            <topicref href="TOPICS/my_ninth_topic.dita"/>
+            <topicref href="TOPICS/my_tenth_topic.dita#my_tenth_topic"/>
+            <topicref href="TOPICS/my_eleventh_topic.dita"/>
+            <topicref href="TOPICS/my_twelvth_topic.dita"/>
+        </topicref>
+    </topicref>
     <topicref href="TOPICS/my_first_reference_topic.dita"/>
     <topicref href="TOPICS/TASKS/t_first_task.dita"/>
+    <topicref/>
     <reltable>
         <relrow/>
     </reltable>

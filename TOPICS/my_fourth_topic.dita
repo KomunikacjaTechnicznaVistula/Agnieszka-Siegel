@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="my_fourth_topic">
+    <title>Quote 2</title>
+    <shortdesc>Diggers</shortdesc>
+    <conbody>
+        <p>The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.</p>
+    </conbody>
+</concept>

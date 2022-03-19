@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="my_sixth_topic">
+    <title>Quote 4</title>
+    <shortdesc>The Truth</shortdesc>
+    <conbody>
+        <p>Sometimes glass glitters more than diamonds because it has more to prove.</p>
+    </conbody>
+</concept>

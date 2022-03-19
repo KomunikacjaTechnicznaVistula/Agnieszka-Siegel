@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="my_first_reference_topis">
-    <title>my-first-reference-topic</title>
+    <title>my-first-reference-quotes</title>
     <shortdesc/>
     <body>
-        <p></p>
+        <p>Terry Pratchett quotes</p>
         <table frame="all" rowsep="1" colsep="1" id="table_ntl_3vz_vsb">
-            <title>My first table</title>
+            <title>The list of quotes</title>
             <desc>my table description</desc>
             <tgroup cols="2">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
