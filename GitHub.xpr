@@ -26,6 +26,66 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../GitHub%20kawonator/m_PDF_core.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF (PDF (CSS Formatter - HTML5))</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>TOPICS/my_second_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF (PDF (CSS Formatter - HTML5))</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub%20kawonator/mapa_kawonator.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>my-first-dita.map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -499,6 +559,7 @@
     </meta>
     <projectTree name="GitHub.xpr">
         <folder path="."/>
+        <folder path="../GitHub%20kawonator/"/>
         <file name="TOPICS/my_second_topic.dita"/>
     </projectTree>
 </project>
