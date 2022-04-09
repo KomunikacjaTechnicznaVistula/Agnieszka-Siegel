@@ -26,7 +26,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub%20kawonator/m_PDF_core.ditamap</String>
+                                    <String>../GitHub%20kawonator/m_html.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -46,7 +46,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>TOPICS/my_second_topic.dita</String>
+                                    <String>../GitHub%20kawonator/m_PDF_core.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -114,6 +114,26 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>TOPICS/my_second_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF (PDF (CSS Formatter - HTML5))</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
