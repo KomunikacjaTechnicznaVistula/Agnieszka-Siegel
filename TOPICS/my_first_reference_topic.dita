@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="my_first_reference_topis">
+    <title>my-first-reference-quotes</title>
+    <shortdesc/>
+    <body>
+        <p>Terry Pratchett quotes</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_ntl_3vz_vsb">
+            <title>The list of quotes</title>
+            <desc>my table description</desc>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>first column</entry>
+                        <entry>second column</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1a</entry>
+                        <entry>1b</entry>
+                    </row>
+                    <row>
+                        <entry>2a</entry>
+                        <entry>2b</entry>
+                    </row>
+                    <row>
+                        <entry>3a</entry>
+                        <entry>3b</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <fig id="fig_n5q_jwz_vsb">
+            <p>my image</p>
+        </fig>
+        <note id="note_jjg_hxz_vsb" importance="high"/>
+    </body>
+</topic>

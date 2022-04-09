@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Agaa\Desktop\Agnieszka-Siegel\temp\TOPICS\TASKS?><?workdir-uri file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/temp/TOPICS/TASKS/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="task_t4b_lrz_vsb" specializations="@props/deliveryTarget" xtrc="task:1;3:29" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">Doing something</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/my-first-dita.map.ditamap">Agnieszka Siegel</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/my-first-dita.map.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/my-first-dita.map.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/my-first-dita.map.ditamap">Vistula University</copyrholder>
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/>
+        </context>
+        <steps class="- topic/ol task/steps " importance="-dita-use-conref-target" xtrc="steps:1;10:53" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+            <step class="- topic/li task/step " xtrc="step:1;11:19" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;12:23" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;14:19" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;15:23" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="result_w14_k5z_vsb" xtrc="result:1;18:42" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/>
+        <example class="- topic/example " id="example_i1t_j5z_vsb" xtrc="example:1;19:44" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/TOPICS/TASKS/t_first_task.dita"/>
+    </taskbody>
+</task>

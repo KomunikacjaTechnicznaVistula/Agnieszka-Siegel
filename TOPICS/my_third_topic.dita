@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="my_third_topic">
+    <title>Quote 1</title>
+    <shortdesc>Small Gods</shortdesc>
+    <conbody>
+        <p>“Time is a drug. Too much of it kills you.”</p>
+    </conbody>
+</concept>

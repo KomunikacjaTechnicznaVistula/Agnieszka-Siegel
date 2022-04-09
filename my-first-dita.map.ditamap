@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>my fist dita map</title>
+    <topicmeta>
+        <author>Agnieszka Siegel</author>
+        <copyright>
+            <copyryear year="2022"/>
+            <copyrholder>Vistula University</copyrholder>
+        </copyright>
+    </topicmeta>
+    <topicref href="TOPICS/c_my_first_concept%201.dita">
+        <topicref href="TOPICS/my_second_topic.dita">
+            <topicref href="TOPICS/my_third_topic.dita"/>
+            <topicref href="TOPICS/my_fourth_topic.dita"/>
+            <topicref href="TOPICS/my_fifth_topic.dita"/>
+            <topicref href="TOPICS/my_sixth_topic.dita"/>
+            <topicref href="TOPICS/my_seventh_topic_dita.dita"/>
+            <topicref href="TOPICS/my_eight_topic.dita"/>
+            <topicref href="TOPICS/my_ninth_topic.dita"/>
+            <topicref href="TOPICS/my_tenth_topic.dita#my_tenth_topic"/>
+            <topicref href="TOPICS/my_eleventh_topic.dita"/>
+            <topicref href="TOPICS/my_twelvth_topic.dita"/>
+        </topicref>
+    </topicref>
+    <topicref/>
+    <reltable>
+        <relrow/>
+    </reltable>
+    <reltable title="Tabela zależności">
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="TOPICS/c_my_first_concept%201.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="TOPICS/TASKS/t_first_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="TOPICS/my_first_reference_topic.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="TOPICS/TASKS/t_first_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="TOPICS/my_first_reference_topic.dita" linking="targetonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="TOPICS/c_my_first_concept%201.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

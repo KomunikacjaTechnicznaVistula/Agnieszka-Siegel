@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Agaa/Desktop/Agnieszka-Siegel/my-first-dita.map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">Agnieszka Siegel</author>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">my fist dita map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">my fist dita map</title>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_my_first_concept_1"><resourceid appid="c_my_first_concept_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Terry Pratchett</navtitle><?ditaot gentext?><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my-second-topic"><resourceid appid="my-second-topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Why I didnt read "Shepherd"</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Terry Pratchett quotes not only for Dummies</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_third_topic"><resourceid appid="my_third_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Quote 1</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Small Gods</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_fourth_topic"><resourceid appid="my_fourth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Quote 2</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Diggers</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_fifth_topic"><resourceid appid="my_fifth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Quote 3</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A Hat Full of Sky</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_sixth_topic"><resourceid appid="my_sixth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Quote 4</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Truth</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_seventh_topic_dita"><resourceid appid="my_seventh_topic_dita" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Quote 5</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Fifth Elephant</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_eight_topic"><resourceid appid="my_eight_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Quote 6</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Good Omens</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_ninth_topic"><resourceid appid="my_ninth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Quote 7</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Lords and Ladies</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_tenth_topic"><resourceid appid="my_tenth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Quote 8</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Hogfather</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="my_eleventh_topic"><resourceid appid="my_eleventh_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Quote 9</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Moving pictures</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="my_twelvth_topic"><resourceid appid="my_twelvth_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Quote 10</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Witches abroad</shortdesc><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></topicmeta></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref "/>
+    
+    
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_my_first_concept_1" oid="c_my_first_concept_1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Terry Pratchett</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Quotes</p>
+    </body>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" broken-link="true" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Quoting something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" broken-link="true" mapclass="- map/topicref " role="friend" scope="local" type="topic"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>my-first-reference-quotes</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="my-second-topic" oid="my-second-topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why I didnt read "Shepherd"</ph></title>
+    <shortdesc class="- topic/shortdesc ">Terry Pratchett quotes not only for Dummies</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Just shortly after Terry Pratchett died, his last book "Shepherd" was published. I have never read it. Why? I just wanted to have one of his novels ready to read on my shelf and I knew he will never write any sentence more.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="my_third_topic" oid="my_third_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 1</ph></title>
+    <shortdesc class="- topic/shortdesc ">Small Gods</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">“Time is a drug. Too much of it kills you.”</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="my_fourth_topic" oid="my_fourth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 2</ph></title>
+    <shortdesc class="- topic/shortdesc ">Diggers</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="my_fifth_topic" oid="my_fifth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 3</ph></title>
+    <shortdesc class="- topic/shortdesc ">A Hat Full of Sky</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="my_sixth_topic" oid="my_sixth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 4</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Truth</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Sometimes glass glitters more than diamonds because it has more to prove.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="my_seventh_topic_dita" oid="my_seventh_topic_dita" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 5</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Fifth Elephant</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A marriage is always made up of two people who are prepared to swear that only the other one snores.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="my_eight_topic" oid="my_eight_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 6</ph></title>
+    <shortdesc class="- topic/shortdesc ">Good Omens</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">All tapes left in a car for more than about a fortnight metamorphose into Best of Queen albums.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="my_ninth_topic" oid="my_ninth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 7</ph></title>
+    <shortdesc class="- topic/shortdesc ">Lords and Ladies</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">If cats looked like frogs we’d realize what nasty, cruel little bastards they are. Style. That’s what people remember.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="my_tenth_topic" oid="my_tenth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 8</ph></title>
+    <shortdesc class="- topic/shortdesc ">Hogfather</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Real stupidity beats artificial intelligence every time.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="my_eleventh_topic" oid="my_eleventh_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 9</ph></title>
+    <shortdesc class="- topic/shortdesc ">Moving pictures</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">..inside every old person is a young person wondering what happened</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="my_twelvth_topic" oid="my_twelvth_topic" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quote 10</ph></title>
+    <shortdesc class="- topic/shortdesc ">Witches abroad</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Agnieszka Siegel</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2022"/>
+            <copyrholder class="- topic/copyrholder ">Vistula University</copyrholder>
+        </copyright></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">People think that stories are shaped by people. In fact, it's the other way around.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept></topic></map>
